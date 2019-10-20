@@ -1,1 +1,1 @@
-FrontEnd For StartNG
+Front-end For StartNG.
